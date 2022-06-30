@@ -1,0 +1,35 @@
+
+clear()
+             system(banner)
+             print(f"{red}Contact me on telegram @smsn_knt")
+             if (i==0):
+                 load()
+                 print("Period: 321           Colour  Green")
+                 #system(Commands)
+             if (i==1):
+                 load()
+                 print("Period: 322           Colour  Green")
+                 #system(Commands1)
+             if (i==2):
+                 load()
+                 print("Period: 323           Colour  RED")
+                 #system(Commands2)
+             if (i==3):
+                 load()
+                 print("Period: 324          Colour  RED ")
+                 #system(Commands3)
+             if (i==4):
+                 load()
+                 print("Period:  325          Colour  GREEN ")
+                 #system(Commands4)
+             if (i==5):
+                 load()
+                 print("Period: 326           Colour  GREEN ")
+                # system(Commands5)
+             if (i==6):
+                 load()
+                 print("Period:  327          Colour  ")
+                # system(Commands6)
+             if (i==7):
+                 load()
+                 print("Period:   328         Colour  ")
